@@ -4,9 +4,7 @@ A powerful presentation generator that transforms documents into beautiful slide
 
 ![Slide it In](docs/hero.png)
 
-Try it now: https://justslideitin.com/
 
-Case study: https://martinsit.ca/writing/shipping-presentation-generation-3-days
 
 ## Overview
 
